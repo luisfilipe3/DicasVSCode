@@ -4,14 +4,14 @@ O REVERSO DO CTRL + Z SALVADOR DE CAGADAS REVERSAS
 
 
 
-# DicasVSCode
+# DicasVSCode Vídeo: https://www.youtube.com/watch?v=FCC2GbStmfc
 # Code Spell Checker
 # Brazilian Portuguese - Code Spell Checker
-# https://www.youtube.com/watch?v=FCC2GbStmfc
 # ctrl p enable portuguese brazilian spell checker
 # Auto Rename Tag - HTML
 # GitLens — Git supercharged
 
+Algumas destas dicas nesse vídeo: https://www.youtube.com/watch?v=MZgbd7bjCTk
 # Alt + Seta == Mover linha
 # Alt + Click(selecionar) = Multi cursor/seletor para palavras diferentes
 # Ctrl + D == Procura a próxima ocorrência(a prox palavra que se repete)
