@@ -10,6 +10,10 @@ O REVERSO DO CTRL + Z SALVADOR DE CAGADAS REVERSAS
 # ctrl p enable portuguese brazilian spell checker
 # Auto Rename Tag - HTML
 # GitLens — Git supercharged
+# Live Preview (HTML)
+# vscode-icons
+# Monokai Pro - Filter Spectrum (bonito e tranquilo)(limite de 6 cores diferentes para 6 parenteses direto, os outros só tem 3 como limite de cores)
+
 
 Algumas destas dicas nesse vídeo: https://www.youtube.com/watch?v=MZgbd7bjCTk
 # Alt + Seta == Mover linha
